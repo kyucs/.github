@@ -12,3 +12,17 @@
   </p>
 
 </div>
+
+## Computer Science Sessions - 2023
+Welcome to the Aug - Dec 2023 Semester!
+
+### Introduction
+The repository consists of slides for sessions conducted by the Computer Science Association of [Kyambogo University](https://kyu.ac.ug/).
+
+### Sessions
+Every session is  consists of downloadable slides and thier source code. 
+
+Below is a list of slides for every session;
+
+0. [Orientation](https://kyucs.github.io/orientation/)
+1. Session One
