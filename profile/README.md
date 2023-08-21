@@ -24,5 +24,5 @@ Every session is  consists of downloadable slides and thier source code.
 
 Below is a list of slides for every session;
 
-0. [Orientation](https://kyucs.github.io/orientation/)
-1. Session One
+0. Orientation
+1. Session One: Introduction to Computer Science with Real World Applications
