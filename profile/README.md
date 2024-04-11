@@ -9,8 +9,8 @@
 
 </div>
 
-## Computer Science Sessions - 2023
-Welcome to the Aug - Dec 2023 Semester!
+## Computer Science Sessions - 2024
+Welcome to the Aug 2023 - Dec 2024 Semester!
 
 ### Introduction
 The repository consists of slides for sessions conducted by the Computer Science Association of [Kyambogo University](https://kyu.ac.ug/).
